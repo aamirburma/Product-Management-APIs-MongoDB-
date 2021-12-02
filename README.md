@@ -53,29 +53,29 @@
     </ul>
 </ol>
 <hr />
-<img src="./Postman/1.png" width="400px" />
+<img src="./postman/1.png" width="400px" />
 <hr />
-<img src="./Postman/2.png" width="400px" />
+<img src="./postman/2.png" width="400px" />
 <hr />
-<img src="./Postman/3.png" width="400px" />
+<img src="./postman/3.png" width="400px" />
 <hr />
-<img src="./Postman/4.png" width="400px" />
+<img src="./postman/4.png" width="400px" />
 <hr />
-<img src="./Postman/5.png" width="400px" />
+<img src="./postman/5.png" width="400px" />
 <hr />
-<img src="./Postman/6.png" width="400px" />
+<img src="./postman/6.png" width="400px" />
 <hr />
-<img src="./Postman/7.png" width="400px" />
+<img src="./postman/7.png" width="400px" />
 <hr />
-<img src="./Postman/8.png" width="400px" />
+<img src="./postman/8.png" width="400px" />
 <hr />
-<img src="./Postman/9.png" width="400px" />
+<img src="./postman/9.png" width="400px" />
 <hr />
-<img src="./Postman/10.png" width="400px" />
+<img src="./postman/10.png" width="400px" />
 <hr />
-<img src="./Postman/11.png" width="400px" />
+<img src="./postman/11.png" width="400px" />
 <hr />
-<img src="./Postman/12.png" width="400px" />
+<img src="./postman/12.png" width="400px" />
 <hr />
-<img src="./Postman/13.png" width="400px" />
+<img src="./postman/13.png" width="400px" />
 <hr />
